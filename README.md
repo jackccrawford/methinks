@@ -1,6 +1,7 @@
 # methinks
 - me·thinks
 - /mēˈTHiNGks/
-- verbarchaic•humorous
+## verb: archaic • humorous
 - it seems to me.
-- "life has been rather hard on her, methinks"
+- "life has been rather pleasant for them, methinks"
+## My musings and more will show up here from time to time.
