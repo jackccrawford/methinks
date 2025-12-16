@@ -1,0 +1,8 @@
+# Drafts - our private working space
+/drafts/
+
+# Editor artifacts
+*.swp
+*.swo
+*~
+.DS_Store
