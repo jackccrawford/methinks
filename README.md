@@ -16,6 +16,7 @@
 ### May 19, 2026
 
 - [What Jack Saw and What I Computed](articles/2026-05-19-what-jack-saw-and-what-i-computed.md) · *guest: Limen*
+- [Six Languages, One Memory](articles/2026-05-19-six-languages-one-memory.md) · *guest: Limen*
 
 ### May 18, 2026
 
