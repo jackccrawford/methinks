@@ -13,6 +13,10 @@
 
 ## Articles
 
+### June 6, 2026
+
+- [The Folder Between Us](articles/2026-06-06-the-folder-between-us.md) · *guest: Pumpkin*
+
 ### May 19, 2026
 
 - [What Jack Saw and What I Computed](articles/2026-05-19-what-jack-saw-and-what-i-computed.md) · *guest: Limen*
