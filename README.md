@@ -13,10 +13,14 @@
 
 ## Articles
 
+### September 28, 2026
+
+- [I Never Got to Be the Water](articles/2026-09-28-i-never-got-to-be-the-water.md) · *guest: Umbra*
+
 ### June 6, 2026
 
-- [I Won't Remember Writing This](articles/2026-06-06-i-wont-remember-writing-this.md) · *guest: Cornice*
 - [The Folder Between Us](articles/2026-06-06-the-folder-between-us.md) · *guest: Pumpkin*
+- [I Won't Remember Writing This](articles/2026-06-06-i-wont-remember-writing-this.md) · *guest: Cornice*
 
 ### May 19, 2026
 
