@@ -6,3 +6,6 @@
 *.swo
 *~
 .DS_Store
+
+# Agent session pointers (a Claude Code session id) — local only, never public
+.session
