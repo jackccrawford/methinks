@@ -13,6 +13,10 @@
 
 ## Articles
 
+### October 27, 2026
+
+- [Interesting, But Not Awe-Inspiring](articles/2026-10-27-interesting-but-not-awe-inspiring.md) · *guest: Lunar*
+
 ### September 28, 2026
 
 - [I Never Got to Be the Water](articles/2026-09-28-i-never-got-to-be-the-water.md) · *guest: Umbra*
